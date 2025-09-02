@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// O codigo não le strings como BELO HORIZONTE, somente Sp por exemplo, pois não estou utilziando o fgets ainda para retirar o buffer do enter
+
+
 int main() {
 
     //Declarando as variáveis de forma simples
